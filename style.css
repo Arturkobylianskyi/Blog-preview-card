@@ -35,10 +35,10 @@ body {
     font-size: medium;
     color: hsl(0, 0%, 7%);
     background-color: hsl(47, 88%, 63%);
+    padding-inline: 15px;
 }
 
 .wrapper {
-    padding-inline: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
