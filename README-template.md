@@ -16,17 +16,16 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
 
-Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
-- How to link local fonts to a project !!!!!!!!!!!!!!
-
+- Learn how to link local fonts to a project
+- Add a box-shadow
+- Center two elements inside one div
+- Add more tags
 ### Screenshot
 
 ![](./screenshot.jpg)
