@@ -50,7 +50,7 @@ body {
     flex-direction: column;
     justify-content: center;
     /* align-items: normal; */
-    max-width: 550px;
+    max-width: 35rem;
     background-color: #fff;
     border: 2px solid #000;
     border-radius: 25px; /* What is better for border radius px or rem ? */
@@ -75,7 +75,8 @@ body {
 }
 
 .publication-date {
-    margin: 0 1rem 1rem 0;
+    display: block;
+    margin: 0 1rem 1.5rem 0;
     font-weight: 600;
 }
 
